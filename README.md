@@ -2,7 +2,7 @@ This scripts compares two IBM Notes Databases and displays documents not found i
 Only presence of documents is checked, not their content
 
 Usage : 
-`python dbcompare.py SourceServer path\to\database.nsf TargetServer`
+`python comparedb.py SourceServer path\to\database.nsf TargetServer`
 
 Use "" for local
 
