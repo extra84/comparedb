@@ -7,6 +7,6 @@ Usage :
 
 Use "" for local
 
-This script requires pywin32.
+This script requires an installed Notes client and pywin32 python extension.
 
 Result is unpredictable if target server contains multiple replicas with the same ReplicaID
